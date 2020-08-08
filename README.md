@@ -23,10 +23,11 @@
 3. 建议使用风枪加钢网焊接，因为两颗芯片的管脚很密集
 
 ## 软件
-**SDRuno: **http://www.sdrplay.com/sdruno/
+**SDRuno:** http://www.sdrplay.com/sdruno/
 
 SDRPlay有配套的SDR软件SDRuno，该软件自带驱动，板子焊好连上USB即可使用
 ![](https://github.com/TimoQAQ/SDRPlay-Nano/blob/master/image/image3.jpg)
+
 ## 打板图片
 ![](https://github.com/TimoQAQ/SDRPlay-Nano/blob/master/image/image0.jpg)
 ![](https://github.com/TimoQAQ/SDRPlay-Nano/blob/master/image/image1.jpg)
